@@ -9,7 +9,7 @@ h1{
 }
 .contenedor{
     width: 100%;
-    padding: 15px;
+   
     
 }
 body{
@@ -24,10 +24,14 @@ body{
     padding: 3px;
     background: #548aaa;
     text-align: center;
+    border-radius: 12%;
     
 }
 label{
     margin: 3px;
+    display: inline-block;
+    width: 110px;
+    
 }
 .contenedor-input{
     margin: 30px;
